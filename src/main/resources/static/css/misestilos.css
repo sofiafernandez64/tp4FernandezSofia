@@ -1,0 +1,38 @@
+.navmio{
+		
+	background:  pink;
+	padding: 8px 16px 8px 16px;
+	text-align: center;
+	
+}
+
+
+body {
+	margin: 0;
+		 padding: 0;
+		 color: #fff;
+		 background:url(../img/raya.jpg) ;
+		 background-size: cover;
+  		font-family: sans-serif;
+  		height: 100vh;
+	
+}
+
+
+.login-box {
+  width: 320px;
+  height: 420px;
+  background: pink;
+  color: black;
+  top: 50%;
+  left: 50%;  
+  padding: 70px 30px;
+}
+
+
+.columna
+{
+	position: sticky;
+	left: 0;
+	background: pink;
+}
